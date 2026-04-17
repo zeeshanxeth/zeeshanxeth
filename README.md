@@ -22,7 +22,7 @@ Hi, I'm Zeeshan
   <img src="https://img.shields.io/badge/Telegram-191970?style=plastic&logo=telegram&logoColor=white" alt="Telegram">
 </a>
 &nbsp;
-<a href="https://www.linkedin.com/in/your-profile" target="_blank"> 
+<a href="www.linkedin.com/in/zeeshanxeth" target="_blank"> 
   <img src="https://img.shields.io/badge/LinkedIn-191970?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
