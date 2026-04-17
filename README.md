@@ -23,7 +23,7 @@ Hi, I'm Zeeshan
 </a>
 &nbsp;
 <a href="www.linkedin.com/in/zeeshanxeth" target="_blank"> 
-  <img src="https://img.shields.io/badge/LinkedIn-191970?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn">
+ <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 </div>
