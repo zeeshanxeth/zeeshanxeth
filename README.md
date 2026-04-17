@@ -18,7 +18,7 @@ Hi, I'm Zeeshan
   <img src="https://img.shields.io/badge/X-24292f?style=plastic&logo=twitter&logoColor=white" alt="X (Twitter)">
 </a>
 &nbsp;
-<a href="https://t.me/+DazTV2DuPN81OTI1" target="_blank">
+<a href="https://t.me/Zeeshanxeth" target="_blank">
   <img src="https://img.shields.io/badge/Telegram-191970?style=plastic&logo=telegram&logoColor=white" alt="Telegram">
 </a>
 &nbsp;
